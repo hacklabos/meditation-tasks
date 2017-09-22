@@ -1,3 +1,8 @@
+/*
+    @author Zoran Kovacevic, https://github.com/zorankova
+    @version 1.0 7/10/17
+*/
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
